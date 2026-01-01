@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-yfinance
 pandas
 lxml
 requests
+yfinance>=0.2.40
